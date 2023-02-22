@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#my-footer{
+    margin-top: auto;
+} */
+
+#sign-out-form{
+    display: none;
+}
